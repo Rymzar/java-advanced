@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java_ advanced.iml" filepath="$PROJECT_DIR$/java_ advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jrm-java-adv-task1/jrm-java-adv-task1.iml" filepath="$PROJECT_DIR$/jrm-java-adv-task1/jrm-java-adv-task1.iml" />
     </modules>
   </component>
 </project>
