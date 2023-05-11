@@ -8,19 +8,25 @@
         <outputRelativeToContentRoot value="true" />
         <module name="jrm-java-adv-task6" />
         <module name="jrm-java-adv-task7" />
+        <module name="jrm-java-adv-task15" />
         <module name="jrm-java-adv-task8" />
-        <module name="jrm-java-adv-task1" />
+        <module name="jrm-java-adv-task9" />
         <module name="jrm-java-adv-task2" />
+        <module name="jrm-java-adv-task10" />
         <module name="jrm-java-adv-task5" />
+        <module name="jrm-java-adv-task1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="jrm-java-adv-task1" target="1.8" />
+      <module name="jrm-java-adv-task10" target="1.8" />
+      <module name="jrm-java-adv-task15" target="1.8" />
       <module name="jrm-java-adv-task2" target="1.8" />
       <module name="jrm-java-adv-task5" target="1.8" />
       <module name="jrm-java-adv-task6" target="1.8" />
       <module name="jrm-java-adv-task7" target="1.8" />
       <module name="jrm-java-adv-task8" target="1.8" />
+      <module name="jrm-java-adv-task9" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
